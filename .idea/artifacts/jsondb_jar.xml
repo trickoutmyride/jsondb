@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jsondb:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jsondb_jar</output-path>
+    <root id="archive" name="jsondb.jar">
+      <element id="module-output" name="jsondb" />
+    </root>
+  </artifact>
+</component>
